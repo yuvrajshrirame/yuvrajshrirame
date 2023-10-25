@@ -1,5 +1,5 @@
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/D5616AQGKC__n2iFxLA/profile-displaybackgroundimage-shrink_350_1400/0/1683103888967?e=1703721600&v=beta&t=kyBtzj3KXrMCVV-JjJDhJ9PajBk_dwcQsJ0oK9TVXmE)
-# Yuvraj `Shrirame`
+# Yuvraj Shrirame
 I'm Yuvraj from India and I'm learning Full Stack Web Development at PWSkills. I also enjoy designing graphics.
 
 - 🔭 I’m currently working on JavaScript Projects. 
