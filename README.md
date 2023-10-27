@@ -3,9 +3,7 @@
 I'm Yuvraj from India and I'm learning Full Stack Web Development at PWSkills. I also enjoy designing graphics.
 
 - 🔭 I’m currently working on JavaScript Projects. 
-- 🌱 I’m currently learning Full Stack Web Development 
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I ❤️ Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 
 ## Socials
 
