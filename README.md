@@ -7,7 +7,7 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
 * 🚀  I'm currently working on [JavaScript Projects](http://github.com/yuvrajshrirame/javascript-projects)
 * 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on interesting web-related projects
-* ✉️  You can contact me at [mail.yuvrajshrirame@gmail.com](mailto:mail.yuvrajshrirame@gmail.com)
+* ✉️  You can contact me at [mail.yuvrajshrirame@gmail.com](mailto:mail.yuvrajshrirame+github@gmail.com)
 
 ![Dash Line](https://i.imgur.com/n4m72eY_d.webp?maxwidth=1520&fidelity=grand) 
 
