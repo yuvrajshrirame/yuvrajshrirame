@@ -9,7 +9,7 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
 * 🤝  I'm open to collaborating on interesting web-related projects
 * ✉️  You can contact me at [mail.yuvrajshrirame@gmail.com](mailto:mail.yuvrajshrirame+github@gmail.com)
 
-![Dash Line](https://i.imgur.com/n4m72eY_d.webp?maxwidth=1520&fidelity=grand) 
+![Dash Line](https://i.imgur.com/n4m72eY_d.webp?maxwidth=1520&fidelity=grand)
 
 ## Socials
 
@@ -20,7 +20,18 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
 </div>
 
 ## Languages & Tools
+
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,c,cpp" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql" /><br>
 </div>
+
+## Highlighted Repositories
+
+<a href="https://github.com/yuvrajshrirame/javascript-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=javascript-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="javascript-projects" />
+</a>
+
+<a href="https://github.com/yuvrajshrirame/pwskills-coursework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=pwskills-coursework&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="pwskills-coursework" />
+</a>
