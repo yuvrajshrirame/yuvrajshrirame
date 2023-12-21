@@ -32,6 +32,6 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=javascript-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="javascript-projects" />
 </a>
 
-<a href="https://github.com/yuvrajshrirame/pwskills-coursework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=pwskills-coursework&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="pwskills-coursework" />
+<a href="https://github.com/yuvrajshrirame/pwskills-milestones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=pwskills-milestones&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="pwskills-milestones" />
 </a>
