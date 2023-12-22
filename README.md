@@ -1,5 +1,5 @@
 # 👋 I'm Yuvraj Shrirame
-![Dash Line](https://i.imgur.com/n4m72eY_d.webp?maxwidth=1520&fidelity=grand)
+![Dash Line](https://bit.ly/dashline-img)
 <br><br>
 As an ambitious and dedicated B.Sc. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
@@ -9,7 +9,7 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
 * 🤝  I'm open to collaborating on interesting web-related projects
 * ✉️  You can contact me at [mail.yuvrajshrirame@gmail.com](mailto:mail.yuvrajshrirame+github@gmail.com)
 
-![Dash Line](https://i.imgur.com/n4m72eY_d.webp?maxwidth=1520&fidelity=grand)
+![Dash Line](https://bit.ly/dashline-img)
 
 ## Socials
 
