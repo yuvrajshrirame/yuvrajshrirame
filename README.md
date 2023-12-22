@@ -26,7 +26,7 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql" /><br>
 </div>
 
-## Highlighted Repositories
+<!-- ## Highlighted Repositories
 
 <a href="https://github.com/yuvrajshrirame/javascript-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=javascript-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="javascript-projects" />
@@ -34,4 +34,4 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
 
 <a href="https://github.com/yuvrajshrirame/pwskills-milestones">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=pwskills-milestones&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="pwskills-milestones" />
-</a>
+</a> -->
