@@ -21,7 +21,7 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
 ## Languages & Tools
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,c,cpp,java" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql" /><br>
 </div>
 
