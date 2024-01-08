@@ -1,5 +1,4 @@
 # 👋 I'm Yuvraj Shrirame
-<!-- ![Dash Line](https://bit.ly/dashline-img) -->
 ![Dash Line](https://i.imgur.com/n4m72eY_d.webp?maxwidth=1520&fidelity=grand)
 As an ambitious and dedicated B.Sc. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
