@@ -3,10 +3,10 @@
 As an ambitious and dedicated B.Sc. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
 * 🌍  I'm based in India
-* 🚀  I'm currently working on [JavaScript Projects](http://github.com/yuvrajshrirame/javascript-projects)
 * 🧠  I'm learning Backend Development
+* 🚀  I'm currently working on [JavaScript Projects](http://github.com/yuvrajshrirame/javascript-projects)
 * 🤝  I'm open to collaborating on interesting web-related projects
-* ✉️  You can contact me at [mail.yuvrajshrirame@gmail.com](mailto:mail.yuvrajshrirame+github@gmail.com)
+<!-- * ✉️  You can contact me [here](linkToForm) -->
 
 ## Socials
 
