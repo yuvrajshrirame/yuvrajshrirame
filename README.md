@@ -1,4 +1,5 @@
 # 👋 I'm Yuvraj Shrirame
+![Banner IMG](https://media.licdn.com/dms/image/D5616AQEEy21c5MpVvw/profile-displaybackgroundimage-shrink_350_1400/0/1704977130296?e=1710979200&v=beta&t=bRmRWhIzEVU6MaDM6P1K1tDmCG3Xk962sYa0UVpKAN8)
 ![Dash Line](https://i.imgur.com/n4m72eY_d.webp?maxwidth=1520&fidelity=grand)
 As an ambitious and dedicated B.Sc. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
