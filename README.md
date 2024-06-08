@@ -1,3 +1,4 @@
+<!-- ![Cover Image](yourLinkHere) -->
 # I'm Yuvraj Shrirame
 As an ambitious and dedicated B.Sc. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
