@@ -1,4 +1,4 @@
-<!-- ![Cover Image](yourLinkHere) -->
+![GitHub-Banner](https://github.com/yuvrajshrirame/yuvrajshrirame/assets/137785595/6daf21f0-f6dd-406c-90b2-fc7cb6f38685)
 # I'm Yuvraj Shrirame
 As an ambitious and dedicated B.Sc. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
@@ -14,6 +14,10 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
   <a href="https://linkedin.com/in/yuvrajshrirame" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  &nbsp;
+  <a href="https://x.com/YuvrajShrirame" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 ## Languages & Tools
@@ -22,13 +26,3 @@ As an ambitious and dedicated B.Sc. Computer Science student, I have a strong in
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,c,cpp,java" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql" /><br>
 </div>
-
-<!-- ## Highlighted Repositories
-
-<a href="https://github.com/yuvrajshrirame/javascript-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=javascript-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="javascript-projects" />
-</a>
-
-<a href="https://github.com/yuvrajshrirame/pwskills-milestones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajshrirame&repo=pwskills-milestones&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="pwskills-milestones" />
-</a> -->
