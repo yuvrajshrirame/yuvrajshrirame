@@ -1,6 +1,6 @@
 ![GitHub-Banner](https://github.com/yuvrajshrirame/yuvrajshrirame/assets/137785595/6daf21f0-f6dd-406c-90b2-fc7cb6f38685)
 # I'm Yuvraj Shrirame
-As an ambitious and dedicated B.Sc. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
+I have a strong interest in developing dynamic web applications that function flawlessly and create stunning digital experiences.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Backend Development
