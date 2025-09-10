@@ -1,3 +1,5 @@
+<!-- ![Demo](ezgif-63367c9024045b.gif) -->
+<!--
 ![GitHub-Banner](https://github.com/yuvrajshrirame/yuvrajshrirame/assets/137785595/6daf21f0-f6dd-406c-90b2-fc7cb6f38685)
 # I'm Yuvraj Shrirame
 I have a strong interest in developing dynamic web applications that function flawlessly and create stunning digital experiences.
@@ -6,8 +8,10 @@ I have a strong interest in developing dynamic web applications that function fl
 * 🧠  I'm learning Backend Development
 * 🚀  I'm currently working on [JavaScript Projects](http://github.com/yuvrajshrirame/javascript-projects)
 * 🤝  I'm open to collaborating on interesting web-related projects
-<!-- * ✉️  You can contact me [here](linkToForm) -->
+-->
 
+<!-- * ✉️  You can contact me [here](linkToForm) -->
+<!--
 ## Socials
 
 <div align="left"> 
@@ -22,3 +26,4 @@ I have a strong interest in developing dynamic web applications that function fl
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,c,cpp,java" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql" /><br>
 </div>
+-->
