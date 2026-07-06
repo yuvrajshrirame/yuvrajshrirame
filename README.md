@@ -6,7 +6,7 @@ I build cool stuff with React, Node.js, and Java while solving problems and cont
 # connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvrajshrirame)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abcdynamo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=LeetCode&logoColor=white)](https://leetcode.com/abcdynamo)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=LeetCode&logoColor=white)](https://leetcode.com/ur4j)
 
 # stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
