@@ -1,32 +1,29 @@
 <img src="./assets/flames.jpeg" alt="pixel flames banner" width="100%" />
 
-<h1 align="center">Hey, I'm Yuvraj 👋</h1>
+# hello, i'm yuvraj ;)
 
-<p align="center">
-  I build cool stuff with React, Node.js, and Java while solving problems and continuously learning.
-</p>
+Full-stack developer from India. I build with React, Node.js, and Java while solving problems and continuously learning.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajshrirame&label=Profile%20Views&color=orange&style=flat" alt="Profile views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvrajshrirame)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/ur4j)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abcdynamo)
+![Views](https://komarev.com/ghpvc/?username=yuvrajshrirame&label=Views&color=orange&style=flat-square)
 
-# connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvrajshrirame)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abcdynamo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=LeetCode&logoColor=white)](https://leetcode.com/ur4j)
+---
 
-# stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+## Stack
 
-# summary:
-<p align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvrajshrirame&theme=dark" alt="GitHub Profile Summary" />
-</p>
+| Category | Tools |
+| :-- | :-- |
+| Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=61DAFB) |
+| Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
+
+---
+
+## Stats
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvrajshrirame&theme=dark)
+
+<img src="./assets/spidey.gif" alt="spidey gif" width="100%" />
