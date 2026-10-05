@@ -26,4 +26,4 @@ Full-stack developer from India. I build with React, Node.js, and Java while sol
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvrajshrirame&theme=dark" alt="GitHub Profile Summary" width="100%" />
 
-<img src="./assets/spidey.gif" alt="spidey gif" width="100%" />
+<!-- <img src="./assets/spidey.gif" alt="spidey gif" width="40%" /> -->
